@@ -1,0 +1,42 @@
+# Game Design Document (GDD)
+
+**Desenvolvedor:**  
+Matheus Santos da Costa Alves
+
+## Game Identity / Mantra
+Pong estilizado, utilizando cores com mecânicas estilo Roguelike e mecânicas de Deckbuilder.
+
+## Design Pillars
+- Rápido
+- Frenético
+- Colorido
+
+## Mecânicas
+O jogo usará mecânicas semelhantes ao jogo Pong. A cada ponto marcado, o jogador terá a chance de adicionar uma carta que altera a jogabilidade da partida (ex.: a barra se torna 2 barras, podendo segurar a bola). A partida termina depois de um tempo selecionado, e vence quem tiver mais espaços coloridos.
+
+## Funções
+O fundo da partida será preto. Cada ponto em que a bola passar, ao ser rebatida, será pintado com a cor da barra selecionada pelo usuário, colorindo a tela atrás.
+
+## Interface
+- Controle da barra: **W** e **S** ou **Setas para cima e para baixo**.
+- Seleção de cartas: **Mouse** ou teclas **A** e **D**.
+
+## Art Style
+O jogo utilizará pixel art e cores com contraste alto, a fim de evitar confusão para pessoas com daltonismo.
+
+## Music/Sound
+*A definir*
+
+## Development Roadmap / Launch Criteria
+
+**Plataforma:** Steam  
+**Audiência:** Todos os públicos.
+
+| Milestone | Descrição | Data Alvo |
+|-----------|-----------|-----------|
+| Milestone 1 | Mecânicas completadas | 01/02/26 |
+| Milestone 2 | Boss fights completados | 01/02/26 |
+| Milestone 3 | Níveis completados | 01/02/26 |
+| Milestone 4 | Polish completo | 01/03/26 |
+
+**Dia do lançamento:** A definir
